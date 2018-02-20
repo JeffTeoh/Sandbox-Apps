@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sandbox Apps</string>
+    <string name="facebook_app_id">170971420210465</string>
+    <string name="fb_login_protocol_scheme">fb170971420210465</string>
 </resources>
