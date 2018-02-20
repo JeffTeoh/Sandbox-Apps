@@ -14,10 +14,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void aboutUs(View view) {
+    public void contactUs(View view) {
         //go to about us page
-        Intent intent = new Intent(this, aboutus.class);
-        Button bAboutUs = (Button) findViewById(R.id.bAboutUs);
+        Intent intent = new Intent(this, contactus.class);
+        Button bContactUs = (Button) findViewById(R.id.bContactUs);
         startActivity(intent);
     }
 }
